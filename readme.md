@@ -30,7 +30,7 @@ as long as xValue remains positive.
 ```
 
 ```
-- Print all the odd numbers between 1 - 100.
+- Print all the odd numbers between 1 - 100. //1,3,5,7,9,...,99
 ```
 
 ```
